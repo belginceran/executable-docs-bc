@@ -30,6 +30,8 @@ Follow these steps to write an Exec Doc either by converting an existing Azure D
 
     **Example:** 
 
+    ![LF VSCode](https://github.com/MicrosoftDocs/executable-docs/assets/146123940/3501cd38-2aa9-4e98-a782-c44ae278fc21)
+
     >**Note:** It will appear according to the IDE you are using. For the VS Code IDE, it is given at the bottom right corner of the screen. 
 
 5. Ensure all dependencies that your Exec Doc references live under the same parent folder as your Exec Doc
