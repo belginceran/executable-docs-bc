@@ -166,15 +166,11 @@ Follow these steps to write an Exec Doc either by converting an existing Azure D
 
 ## Current Exec Docs Experience
 
-<img width="1060" alt="Exec Docs Pipeline" src="https://github.com/MicrosoftDocs/executable-docs/assets/146123940/0cf8844e-94c4-48c0-83bd-ee15dff7e132">
-
 ## Exec Docs Publishing Pipeline
 
+<img width="1060" alt="Exec Docs Pipeline" src="https://github.com/MicrosoftDocs/executable-docs/assets/146123940/0cf8844e-94c4-48c0-83bd-ee15dff7e132">
+
 ## Frequently Asked Questions (FAQs)
-
-### What is Executable Documentation?
-
-Executable documentation takes standard markdown language and amplifies it by allowing the code commands within the document to be executed in full or step by step in an educational manner, and tested via automated CI/CD pipelines.
 
 ## Trademarks
 
