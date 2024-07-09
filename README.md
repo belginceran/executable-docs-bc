@@ -166,6 +166,14 @@ Follow these steps to write an Exec Doc either by converting an existing Azure D
 
 ## Current Exec Docs Experience
 
+Exec Docs is a deployment vehicle that has different entry points into the experience. Here are the current entry points:
+
+- [MS Learn](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli): A public facing Exec Doc on Microsoft Learn that enables users to create a Linux VM and SSH into it.
+
+- [GitHub Repository](https://github.com/MicrosoftDocs/executable-docs/tree/main/scenarios): The GitHub repository where the current exec docs are stored.
+
+- [Portal CLI Workloads](https://ms.portal.azure.com/#view/Microsoft_Azure_CloudNative/TutorialsPage.ReactView): The Azure portal page where the current exec docs are displayed as cards.
+
 ## Exec Docs Publishing Pipeline
 
 <img width="1060" alt="Exec Docs Pipeline" src="https://github.com/MicrosoftDocs/executable-docs/assets/146123940/0cf8844e-94c4-48c0-83bd-ee15dff7e132">

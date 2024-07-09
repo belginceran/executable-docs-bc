@@ -1,0 +1,43 @@
+### YamlMime:Landing
+title: Executable Documentation
+summary: Learn how to build automated, testable, and accurate documentation to deploy and maintain your cloud infrastructure.
+
+metadata:
+  title: Executable Documentation
+  description: Learn how to build automated, testable, and accurate documentation to deploy and maintain your cloud infrastructure.
+  ms.service: 
+  ms.custom: innovation-engine
+  ms.topic: landing-page
+  ms.date: 07/09/2024
+landingContent:
+  - title: About Executable Documentation
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: What is Executable Documentation?
+            url: overview.md
+      - linkListType: concept
+        links:
+          - text: Fleets and member clusters
+            url: concepts-fleet.md
+          - text: Scheduler and scheduling framework
+            url: concepts-scheduler-scheduling-framework.md
+          - text: Update orchestration across multiple member clusters
+            url: concepts-update-orchestration.md
+          - text: Kubernetes resource propagation from hub cluster to member clusters
+            url: concepts-resource-propagation.md
+          - text: Multi-cluster layer-4 load balancing
+            url: concepts-l4-load-balancing.md
+          - text: Frequently asked questions
+            url: faq.md
+     
+  - title: Get started
+    linkLists:
+      - linkListType: quickstart
+        links:
+          - text: Create a Linux virtual machine with the Azure CLI on Azure
+            url: https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/virtual-machines/linux/quick-create-cli.md
+      - linkListType: quickstart
+        links:
+          - text: Deploy an Azure Kubernetes Service (AKS) cluster using Azure CLI
+            url: https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/aks/learn/quick-kubernetes-deploy-cli.md
