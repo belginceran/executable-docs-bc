@@ -164,6 +164,8 @@ Follow these steps to write an Exec Doc either by converting an existing Azure D
 
 ## Current Exec Docs Experience
 
+<img width="1060" alt="Exec Docs Pipeline" src="https://github.com/MicrosoftDocs/executable-docs/assets/146123940/0cf8844e-94c4-48c0-83bd-ee15dff7e132">
+
 ## Exec Docs Publishing Pipeline
 
 ## Frequently Asked Questions (FAQs)
