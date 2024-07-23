@@ -10,7 +10,7 @@ ms.author: belginceran
 ms.custom: mvc, devx-track-azurecli, mode-api, innovation-engine, linux-related-content
 ---
 
-# Quickstart: Use the Azure CLI to create an Ubuntu Virtual Machine and attach an Azure Data Disk
+# Quickstart: Use the Azure CLI to deploy PostgreSQL on Virtual Machines applying the best practices
 
 ## Define Environment Variables
 
